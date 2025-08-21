@@ -10,11 +10,11 @@ An editor for animated images (GIF/WEBP)
 ## Usage
 ![main](./imgs/1.png)
 Drag and drop an image to start editing
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ![edit](./imgs/2.png)
 Play: Play the animation in the preview section
 Export: Save the edited image
@@ -23,11 +23,11 @@ Reverse: Make the image play backward
 Pendulum: Make the image play back and forth
 Resize: Resize the image to have desired height. The original ratio will be preserved
 Crop: Drag and select an area in the preview section to crop the image
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ![merge and concatenate](./imgs/3.png)
 You can drag and drop another image on the existing image to start merge/concatenate
 Merge: Merge two images, those two will be played side by side
