@@ -18,19 +18,19 @@ Drag and drop an image to start editing
 <br/>
 ### Editing an image
 ![edit](./imgs/2.png)
-Play: Play the animation in the preview section
+***Play***: Play the animation in the preview section
 
-Export: Save the edited image
+***Export***: Save the edited image
 
-Update: Add the value on the left (in millisecond, can be negative value) to the selected key frames' frame duration
+***Update***: Add the value on the left (in millisecond, can be negative value) to the selected key frames' frame duration
 
-Reverse: Make the image play backward
+***Reverse***: Make the image play backward
 
-Pendulum: Make the image play back and forth
+***Pendulum***: Make the image play back and forth
 
-Resize: Resize the image to have desired height. The original ratio will be preserved
+***Resize***: Resize the image to have desired height. The original ratio will be preserved
 
-Crop: Drag and select an area in the preview section to crop the image
+***Crop***: Drag and select an area in the preview section to crop the image
 
 <br/>
 <br/>
@@ -38,14 +38,14 @@ Crop: Drag and select an area in the preview section to crop the image
 <br/>
 <br/>
 ### Merge and Concatenate
-![merge and concatenate](./imgs/3.png)
+![merge_and_concatenate](./imgs/3.png)
 You can drag and drop another image on the existing image to start merge/concatenate
 
-Merge: Merge two images, those two will be played side by side
+***Merge***: Merge two images, those two will be played side by side
 
-Concatenate: One will be played after the other
+***Concatenate***: One will be played after the other
 
-When you merge or concatenate, you DO NOT need to match the frame durations/image dimensions/# of frames.
+When you merge or concatenate, you ***DO NOT*** need to match the frame durations/image dimensions/# of frames.
 
 The program will optimize those to produce best output.
 
