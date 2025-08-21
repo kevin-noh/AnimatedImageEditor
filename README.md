@@ -11,11 +11,7 @@ An editor for animated images (GIF/WEBP)
 ### Start editing
 ![main](./imgs/1.png)
 Drag and drop an image to start editing
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 ### Editing an image
 ![edit](./imgs/2.png)
 ***Play***: Play the animation in the preview section
@@ -32,11 +28,6 @@ Drag and drop an image to start editing
 
 ***Crop***: Drag and select an area in the preview section to crop the image
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ![mac](./imgs/3.png)
 You can drag and drop another image on the existing image to start merge/concatenate
 
