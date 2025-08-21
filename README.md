@@ -38,7 +38,6 @@ Drag and drop an image to start editing
 <br/>
 <br/>
 ### Merge and Concatenate
-![mac](./imgs/3.png)
 You can drag and drop another image on the existing image to start merge/concatenate
 
 ***Merge***: Merge two images, those two will be played side by side
