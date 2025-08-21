@@ -8,11 +8,11 @@ An editor for animated images (GIF/WEBP)
 5. Resize/Crop/Merge/Concatenate multiple images
 
 ## Usage
-### Start editing
+### 1. Start editing
 ![main](./imgs/1.png)
 Drag and drop an image to start editing
 
-### Editing an image
+### 2. Editing an image
 ![edit](./imgs/2.png)
 ***Play***: Play the animation in the preview section
 
@@ -28,7 +28,7 @@ Drag and drop an image to start editing
 
 ***Crop***: Drag and select an area in the preview section to crop the image
 
-### Merge and Concatenate
+### 3. Merge and Concatenate
 ![mac](./imgs/3.png)
 You can drag and drop another image on the existing image to start merge/concatenate
 
